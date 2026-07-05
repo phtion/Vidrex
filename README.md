@@ -16,10 +16,10 @@ YouTube but "no shorts", no ads (as long as you brave browse or any extension), 
 
 *Step 7*: After that, it will direct you to API of YouTube API Data v3, Open Hamburger button, and click Credentials then create credentals -> API key.
 
-*Step 8*: Put whatever name, THEN THIS IS IMPORTANT, "Application restrictions" click "website", click add and copy and paste this link : https://phthion.github.io/Vidrex/ and https://phthion.github.io/ in "Website Restrictions"
+*Step 8*: Put whatever name, THEN THIS IS IMPORTANT, "Application restrictions" click "website", click add and copy and paste this link : https://phtion.github.io/Vidrex/ and https://phtion.github.io/ in "Website Restrictions"
 then create.
 
-Step 9: It will show you the api key, copy it and paste to https://phthion.github.io/Vidrex/, and that it!
+Step 9: It will show you the api key, copy it and paste to https://phtion.github.io/Vidrex/, and that it!
 ## Note
 If the "API quota used today" hit 10000, refresh the websites.
 
